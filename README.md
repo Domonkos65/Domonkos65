@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Domonkos65
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in arduino programming
 - 📫 How to reach me: tothdomonkos10@gmail.com
 
 <!---
