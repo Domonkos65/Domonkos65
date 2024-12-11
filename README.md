@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Domonkos65
+- 👋 Hi, I’m @Bruh
 - 👀 I’m interested in arduino programming
 - 📫 How to reach me: tothdomonkos10@gmail.com
 
