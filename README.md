@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bruh
 - 👀 I’m interested in arduino programming
-- 📫 How to reach me: tothdomonkos10@gmail.com
+- 📫 How to reach me:
 
 <!---
 Domonkos65/Domonkos65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
